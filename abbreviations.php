@@ -1,0 +1,30 @@
+<?php
+$abbreviations = array(
+	'a.', 'aa.', 'ab.', 'abr.', 'abs.', 'abrev.', 'admon.', 'adv.', 'afmo.', 'anal.', 'ant.', 'apdo.', 'aprox.', 'arch.', 'art.', 'arz.', 'arzbpo.', 'atlco.', 'atte.', 'atto.', 'aux.', 'av.', 'avd.', 'avda.', 'ayto.', 'as.', 'al.',
+	'b.', 'bda.', 'bibl.', 'bs.', 'bta.', 'bv.', 'blv.',
+	'c.', 'cap.', 'cc.', 'cents.', 'cf.', 'cfr.', 'cia.', 'cta.', 'cte.', 'ctra.', 'cu.', 'cit.', 'cols.',
+	'd.', 'dcha.', 'depto.', 'desus.', 'dicc.', 'dir.', 'dpto.', 'dr.', 'dra.', 'dto.', 'dtto.', 'dupdo.',
+	'e.', 'ee.', 'ed.', 'edit.', 'edo.', 'emmo.', 'ej.', 'entlo.', 'et.', 'etc.', 'excma.', 'excmo.', 'ext.',
+	'f.', 'fol.', 'fdo.', 'ff.', 'fig.', 'fr.',
+	'g.', 'graf.', 'ganad.', 'gan.', 'gen.', 'geneal.', 'genet.', 'geogr.', 'geom.', 'gimn.', 'gob.', 'got.', 'gpo.', 'gr.', 'gral', 'gralte.', 'gta.',
+	'h.', 'hab.', 'hno.', 'hna.', 'hnoa.', 'hnos.', 'hras.', 'hros.', 'hh.',
+	'i.', 'ib.', 'ibid.', 'id.', 'ilma.', 'ilmo.', 'iltre.', 'imp.', 'it.', 'izq.', 'izda.', 'izqda.', 'iv.', 'il8n.',
+	'j.', 'jj.',
+	'k.',
+	'l.', 'lat.', 'lab.', 'lcdo.', 'lcda.', 'ldo.', 'lda.', 'lic.', 'liq.', 'lit.', 'long.', 'loc.', 'ltdo.', 'ltda.', 'llmo.', 'ltda.',
+	'm.', 'max.', 'mat.', 'met.', 'min.', 'mons.', 'ms.', 'mtro.', 'mtra.', 'mtr.', 'mm.', 
+	'n.', 'nn.', 'ncta.', 'nc.', 'no.', 'nf.', 'num.', 'nora.',
+	'o.', 'oo.', 'ob.', 'obpo.', 'op.', 'of.',
+	'p.', 'pag.', 'pags.', 'parr.', 'pbro.', 'pdta.', 'pdte.', 'ph.d.', 'pl.', 'pl.', 'plza.', 'pol.', 'pp.', 'pral.', 'prof.', 'prol.', 'pta.', 'ptas.', 'pts.', 'ptos.',
+	'q.',
+	'r.', 'reg.', 'rel.', 'rep.', 'rma.', 'rmo.', 'rr.', 'rte.', 'rvdo.', 'rdo.',
+	's.', 'sr.', 'sc.', 'ss.', 'sdad.', 'sec.', 'se.', 'secret.', 'serma.', 'sermo.', 'serv.', 'sf.', 'sig.', 'sn.', 'so.', 'sra.', 'sres.', 'srs.', 'srta.', 'sta.', 'sto.',
+	't.', 'tfno.', 'telef.', 'tm.', 'tpo.', 'trad.',
+	'u.', 'ud.', 'uds.', 'univ.', 'un.', 'uni.', 'urb.',
+	'v.', 'vv.', 'vd.', 'vds.', 'vda.', 'vid.', 'vol.',
+	'w.',
+	'x.', 'xto.',
+	'y.', 'yg.', 'yac.', 'yno.', 'yn.', 'ylmo.', 'ynr.', 'ynq.',
+	'z.', 'zua.'
+);
+?>
